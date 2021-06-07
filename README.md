@@ -1,2 +1,2 @@
 # Fitness-Website
-Responsive website - Fitness
+Responsive website - Fitness (html, css(tailwind), javascript)
